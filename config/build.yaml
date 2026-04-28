@@ -3,4 +3,3 @@ include:
     shield: elchibre
   - board: nice_nano
     shield: settings_reset
-
