@@ -14,8 +14,8 @@ ZMK_BEHAVIOR(mod_kr, hold_tap,
     tapping-term-ms = <120>;
     flavor = "balanced";
     require-prior-idle-ms = <150>;
-    bindings= <&kp>, <&key_repeat>;
-    )
+    bindings = <&kp>, <&key_repeat>;
+)
 
 /* Left-hand HRMs. */
 ZMK_HOLD_TAP(hml,
