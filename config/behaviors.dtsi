@@ -1,3 +1,5 @@
+#include "zmk-helpers/key-labels/34.h"
+
 &lt {
     tapping-term-ms = <120>;
     flavor = "balanced";
