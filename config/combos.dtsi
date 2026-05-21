@@ -1,0 +1,13 @@
+ZMK_COMBO(esc,   &kp ESC,   LM2 LM3, ALL, 25,  150)
+ZMK_COMBO(enter, &kp ENTER, RM2 RM3, ALL, 25,  150)
+
+ZMK_COMBO(lsqb,  &kp LBKT,  RT1 RT2, ALL, 25, 150)
+ZMK_COMBO(rsqb,  &kp RBKT,  RT3 RT4, ALL, 25, 150)
+ZMK_COMBO(lpar,  &kp LPAR,  RB1 RB2, ALL, 25, 150)
+ZMK_COMBO(rpar,  &kp RPAR,  RB3 RB4, ALL, 25, 150)
+ZMK_COMBO(lbrc,  &kp LBRC,  RM1 RM2, ALL, 25, 150)
+ZMK_COMBO(rbrc,  &kp RBRC,  RM3 RM4, ALL, 25, 150)
+ZMK_COMBO(sqt,   &kp SQT,   RT1 RT4, ALL, 25, 150)
+ZMK_COMBO(dqt,   &kp DQT,   RT2 RT3, ALL, 25, 150)
+ZMK_COMBO(nubs,  &kp NUBS,  LT0 LT1, ALL, 25, 150)
+
