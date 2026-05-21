@@ -3,11 +3,37 @@ ZMK_COMBO(enter, &kp ENTER, RM2 RM3, ALL, 25,  150)
 
 ZMK_COMBO(lsqb,  &kp LBKT,  RT1 RT2, ALL, 25, 150)
 ZMK_COMBO(rsqb,  &kp RBKT,  RT3 RT4, ALL, 25, 150)
+
 ZMK_COMBO(lpar,  &kp LPAR,  RB1 RB2, ALL, 25, 150)
 ZMK_COMBO(rpar,  &kp RPAR,  RB3 RB4, ALL, 25, 150)
+
 ZMK_COMBO(lbrc,  &kp LBRC,  RM1 RM2, ALL, 25, 150)
 ZMK_COMBO(rbrc,  &kp RBRC,  RM3 RM4, ALL, 25, 150)
+
 ZMK_COMBO(sqt,   &kp SQT,   RT1 RT4, ALL, 25, 150)
 ZMK_COMBO(dqt,   &kp DQT,   RT2 RT3, ALL, 25, 150)
-ZMK_COMBO(nubs,  &kp NUBS,  LT0 LT1, ALL, 25, 150)
 
+ZMK_COMBO(blsh,  &kp BSLH,  LT0 LT1, ALL, 25, 150)
+ZMK_COMBO(minus, &kp MINS,  LM0 LM1, ALL, 25, 150)
+ZMK_COMBO(eql, 	 &kp EQL,   LB0 LB1, ALL, 25, 150)
+
+ZMK_COMBO(excl,  &kp EXCL,  LT1 LT2, ALL, 25, 150)
+ZMK_COMBO(at, 	 &kp AT,    LM1 LM2, ALL, 25, 150)
+ZMK_COMBO(hash,  &kp HASH,  LB1 LB2, ALL, 25, 150)
+
+ZMK_COMBO(dllr,  &kp DLLR,  LT0 LT2, ALL, 25, 150)
+ZMK_COMBO(prcnt, &kp PRCNT, LM0 LM2, ALL, 25, 150)
+ZMK_COMBO(caret, &kp CARET, LB0 LB2, ALL, 25, 150)
+
+ZMK_COMBO(amps,  &kp AMPS,  LT1 LT3, ALL, 25, 150)
+ZMK_COMBO(star,  &kp STAR,  LM1 LM3, ALL, 25, 150)
+ZMK_COMBO(under, &kp UNDER, LB1 LB3, ALL, 25, 150)
+
+ZMK_COMBO(tab,   &kp TAB,   LT3 LT4, ALL, 25, 150)
+ZMK_COMBO(grave, &kp GRAVE, LT2 LT4, ALL, 25, 150)
+
+ZMK_COMBO(copy,   &kp LC(C),       LB3 LB4, ALL, 25, 150)
+ZMK_COMBO(paste,  &kp LC(V),       LB2 LB3, ALL, 25, 150)
+ZMK_COMBO(selall, &kp LC(A),       LB1 LB4, ALL, 25, 150)
+ZMK_COMBO(undo,   &kp LC(Z),   	   LB2 LB4, ALL, 25, 150)
+ZMK_COMBO(redo,   &kp LC(LS(Z)),   LB0 LB4, ALL, 25, 150)
