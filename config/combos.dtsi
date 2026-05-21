@@ -14,7 +14,7 @@ ZMK_COMBO(sqt,   &kp SQT,   RT1 RT4, ALL, 25, 150)
 ZMK_COMBO(dqt,   &kp DQT,   RT2 RT3, ALL, 25, 150)
 
 ZMK_COMBO(blsh,  &kp BSLH,  LT0 LT1, ALL, 25, 150)
-ZMK_COMBO(minus, &kp MINS,  LM0 LM1, ALL, 25, 150)
+ZMK_COMBO(minus, &kp MINUS,  LM0 LM1, ALL, 25, 150)
 ZMK_COMBO(equal, &kp EQL,   LB0 LB1, ALL, 25, 150)
 
 ZMK_COMBO(excl,  &kp EXCL,  LT1 LT2, ALL, 25, 150)
